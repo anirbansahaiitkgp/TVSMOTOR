@@ -1,0 +1,42 @@
+SubClass,SubclassCat,Command,Sunamdha(Subcalass),Anirban(Subclass)
+Update,,Please check for update,Fail,Pass
+Update,,Please show me current update,Fail,Fail
+Update,,please perform bike update,Fail,Pass
+Update,,please kindly perform bike update,Fail,Pass
+Edge,,will I reach hyderabad with current fuel,Fail,Fail
+Update,,Check for update,Pass,Pass
+Update,,Show me current update,Pass,Fail
+Update,,perform bike update,Pass,Pass
+Update,,kindly perform bike update,Pass,Pass
+Edge,,Kindly tell me  whether will I reach hyderabad with current fuel,Fail,Fail
+Edge,,Is current fuel enough to reach Hyderabad,Pass,Pass
+Edge,,Are my tyres pressure balanced,Pass,Pass
+Cloud,,Show me the fastest route to kolkata,Pass,Pass
+Cloud,,Will it rain tomorrow in bangaluru,Pass,Pass
+Cloud,,What is the weather status in delhi,Pass,Pass
+Cloud,,Play my playlist form spotify,Pass,Pass
+Cloud,,Go to goa,Fail,Pass
+Cloud,,Please go to goa,Fail,Pass
+Cloud,,Take me to goa,Pass,Pass
+Edge,,What is my current battery level,Pass,Pass
+Edge,,Check my current fuel level,Pass,Pass
+Edge,,Do I need to change the tyre,Pass,Pass
+Edge,,Check tyre pressure and balance,Pass,Pass
+Edge,,Check if tyre pressure is balanced,Pass,Pass
+Cloud,,what is current temperature,Pass,Pass
+Edge,,turn off the left indicator of the bike,Pass,Pass
+Edge,,turn on the right indicator of the bike,Pass,Pass
+Cloud,,Show me the fastest route from X to Y,Pass,Pass
+Cloud,,Can you recommend a charging station nearby,Pass,Pass
+Cloud,,Will it rain heavily in Delhi today,Pass,Pass
+Cloud,,What is the temperature outisde right now,Pass,Pass
+Cloud,,Did I receive messages on Instagram,Pass,Pass
+Cloud,,Are there any missed calls or app alert,Pass,Pass
+Cloud,,Play my favourite songs form Spotify,Pass,Pass
+Cloud,,Can you play some background music,Pass,Pass
+Update,,Terminate pending bike software update,Pass,Pass
+Update,,Cancel bike system update process,Pass,Pass
+Update,,Begin bike software system upate,Pass,Pass
+Update,,Please begin bike software system upate,Pass,Pass
+Update,,Please check for available system updates for bike ,Pass,Pass
+Update,,Please verify pending bike updates,Pass,Pass
