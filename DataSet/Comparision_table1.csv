@@ -1,0 +1,42 @@
+SubClass,SubclassCat,Command,Sunamdha(Subcalass),Anirban(Subclass),Sunamdha new,,Anirban only bike LSTM
+Update,Check,Please check for update,Fail,Pass,Pass,Pass,Pass
+Update,Check,Please show me current update,Fail,Fail,Pass,Pass,Pass
+Update,Perform,please perform bike update,Fail,Pass,Pass,Pass,Pass
+Update,Perform,please kindly perform bike update,Fail,Pass,Fail,Pass,Pass
+Edge,Battery/Fuel,will I reach hyderabad with current fuel,Fail,Fail,Pass,Pass,Pass
+Update,Check,Check for update,Pass,Pass,Pass,Pass,Pass
+Update,Check,Show me current update,Pass,Fail,Pass,Pass,Pass
+Update,Perform,perform bike update,Pass,Pass,Pass,Pass,Pass
+Update,Perform,kindly perform bike update,Pass,Pass,Fail,Pass,Pass
+Edge,Battery/Fuel,Kindly will I reach hyderabad with current fuel,Fail,Fail,Pass,Pass,Pass
+Edge,Battery/Fuel,Is current fuel enough to reach Hyderabad,Pass,Pass,Pass,Pass,Pass
+Edge,Tire/Tyres,Are my tyres pressure balanced,Pass,Pass,Pass,Pass,Pass
+Cloud,Traffic/Maps,Show me the fastest route to kolkata,Pass,Pass,Pass,Pass,Pass
+Cloud,Weather,Will it rain tomorrow in bangaluru,Pass,Pass,Pass,Pass,Pass
+Cloud,Weather,What is the weather status in delhi,Pass,Pass,Pass,Pass,Pass
+Cloud,Songs/Media,Play my playlist form spotify,Pass,Pass,Pass,Pass,Pass
+Cloud,Traffic/Maps,Go to goa,Fail,Pass,Fail,Pass,Pass
+Cloud,Traffic/Maps,Please go to goa,Fail,Pass,Pass,Pass,Pass
+Cloud,Traffic/Maps,Take me to goa,Pass,Pass,Pass,Pass,Pass
+Edge,Battery/Fuel,What is my current battery level,Pass,Pass,Pass,Pass,Pass
+Edge,Battery/Fuel,Check my current fuel level,Pass,Pass,Pass,Pass,Pass
+Edge,Tire/Tyres,Do I need to change the tyre,Pass,Pass,Pass,Pass,Pass
+Edge,Tire/Tyres,Check tyre pressure and balance,Pass,Pass,Pass,Pass,Pass
+Edge,Tire/Tyres,Check if tyre pressure is balanced,Pass,Pass,Pass,Pass,Pass
+Cloud,Weather,what is current temperature,Pass,Pass,Pass,Pass,Pass
+Edge,Basic,turn off the left indicator of the bike,Pass,Pass,Pass,Pass,Pass
+Edge,Basic,turn on the right indicator of the bike,Pass,Pass,Pass,Pass,Pass
+Cloud,Traffic/Maps,Show me the fastest route from X to Y,Pass,Pass,Pass,Pass,Pass
+Cloud,Traffic/Maps,Can you recommend a charging station nearby,Pass,Pass,Pass,Pass,Pass
+Cloud,Weather,Will it rain heavily in Delhi today,Pass,Pass,Pass,Pass,Pass
+Cloud,Weather,What is the temperature outisde right now,Pass,Pass,Pass,Pass,Pass
+Cloud,News/Notifications,Did I receive messages on Instagram,Pass,Pass,Pass,Pass,Pass
+Cloud,News/Notifications,Are there any missed calls or app alert,Pass,Pass,Pass,Pass,Pass
+Cloud,Songs/Media,Play my favourite songs form Spotify,Pass,Pass,Pass,Pass,Pass
+Cloud,Songs/Media,Can you play some background music,Pass,Pass,Pass,Pass,Pass
+Update,Cancel,Terminate pending bike software update,Pass,Pass,Pass,Pass,Pass
+Update,Cancel,Cancel bike system update process,Pass,Pass,Pass,Pass,Pass
+Update,Perform,Begin bike software system upate,Pass,Pass,Pass,Pass,Pass
+Update,Perform,Please begin bike software system upate,Pass,Pass,Pass,Pass,Pass
+Update,Check,Please check for available system updates for bike ,Pass,Pass,Pass,Pass,Pass
+Update,Check,Please verify pending bike updates,Pass,Pass,Pass,Pass,Pass
